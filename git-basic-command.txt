@@ -1,3 +1,5 @@
 // INIT
 git init
 
+// STATUS
+git status
