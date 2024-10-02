@@ -1,1 +1,2 @@
 VERSION = "1.0.2"
+NO_FEATURES = "4"
