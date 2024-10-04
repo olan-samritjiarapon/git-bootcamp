@@ -30,7 +30,3 @@
 # fix function5_3
 
 # function feature5_4
-
-# function feature5_5
-
-# function feature5_6
